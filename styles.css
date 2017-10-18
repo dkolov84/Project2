@@ -56,7 +56,7 @@ table {
 /* Navigation CSS layout for all of the pages */
 
 .navigation {
-  background-color: #FFFF99;
+  background-color: #0000FF;
   position: relative;
   width: 100%;
   top: 0;
@@ -87,7 +87,7 @@ table {
 }
 
 .navigation ul li a:hover {
-  background-color: #0000FF;
+  background-color: #FFFF99;
   color: #CC6600;
 }
 
@@ -132,7 +132,7 @@ h2 {
     text-align: center;
 }
 #dominican_rep {
-    margin-top: 30px;
+    margin-top: 20px;
     padding: 0;
 }
 p {
