@@ -124,4 +124,8 @@ p {
     text-align: center;
     padding: 30px;
 }
-	    
+netzero {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
