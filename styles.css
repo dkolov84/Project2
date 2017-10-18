@@ -58,7 +58,6 @@ table {
 .navigation {
   background-color: #0000FF;
   position: relative;
-  border-style: groove;
   width: 100%;
   top: 0;
   margin-top: 0;
@@ -70,6 +69,7 @@ table {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  boarder-style: inset;
  
 }
 
@@ -79,7 +79,6 @@ table {
 
 .navigation ul li a {
   display: block;
-  border-style: inset;
   padding: 20px;
   font-size: 20px;
   color: #CC0000;
@@ -95,7 +94,7 @@ table {
 }
 
 .myheader {
-  font-family: 'Arial', serif;
+  font-family: 'Bernard MT', serif;
   font-weight: 800;
   font-size: 50px;
   text-align: center;
