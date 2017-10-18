@@ -98,4 +98,11 @@ table {
   text-align: center;
   padding: 10px;
 }
+body {
+    background-color: lightblue;
+}
 
+h1 {
+    color: Red;
+    margin-left: 60px;
+} 
