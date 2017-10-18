@@ -76,6 +76,7 @@ table {
 }
 
 .navigation ul li a {
+  border-style: dotted;
   display: block;
   padding: 20px;
   font-size: 20px;
@@ -117,5 +118,10 @@ h1 {
     font-color: red;
     font-weight: bold;
     text-align: center;
+}
+p {
+    color: darkred;
+    text-align: center;
+    padding: 30px;
 }
 	    
