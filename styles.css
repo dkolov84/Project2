@@ -132,6 +132,9 @@ h2 {
     font-weight: bold;
     text-align: center;
 }
+#dominican_rep {
+    text allign: left;
+    padding: 0;
 p {
     color: darkred;
     text-align: center;
