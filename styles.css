@@ -83,7 +83,7 @@ table {
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
-  font-family: Agency FB, sans-serif;
+  font-family: Agency FB, serif;
 }
 
 .navigation ul li a:hover {
@@ -106,7 +106,7 @@ h1 {
     color: Red;
     text-align: center;
     margin-left: 20px;
-    font-size: 200px
+    font-size: 200px;
     font-weight: bold;
     font-family: Bernard MT, sans serif;
 } 
