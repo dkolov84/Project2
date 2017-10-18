@@ -125,6 +125,14 @@ h2 {
     font-weight: bold;
     text-align: center;
 }
+#first_encounter_www {
+    display: block;
+    background-color: #CCE5FF;
+    font-size: 30px;
+    color: #CC0000;
+    font-weight: bold;
+    text-align: center;
+}
 p {
     color: darkred;
     text-align: center;
