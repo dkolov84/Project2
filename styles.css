@@ -111,6 +111,12 @@ h1 {
     font-weight: bold;
     font-family: Bernard MT, sans serif;
 } 
+h2 {
+    font-size: 30px;
+    color: #CC0000;
+    font-weight: bold;
+    text-align: center;
+}
 #background_info {
     display: block;
     background-color: #CCE5FF;
