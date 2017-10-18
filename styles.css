@@ -58,6 +58,7 @@ table {
 .navigation {
   background-color: #0000FF;
   position: relative;
+  border-style: groove;
   width: 100%;
   top: 0;
   margin-top: 0;
@@ -69,7 +70,7 @@ table {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border-style: groove;
+ 
 }
 
 .navigation ul li {
