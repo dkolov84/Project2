@@ -76,7 +76,7 @@ table {
 }
 
 .navigation ul li a {
-  boarder-style: rounded;
+  boarder-style: round;
   display: block;
   padding: 20px;
   font-size: 20px;
