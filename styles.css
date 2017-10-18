@@ -79,6 +79,7 @@ table {
 
 .navigation ul li a {
   display: block;
+  border-style: inset;
   padding: 20px;
   font-size: 20px;
   color: #CC0000;
@@ -118,6 +119,7 @@ h2 {
     font-weight: bold;
 }
 #background_info {
+    font-family: Bernard MT, serif;
     display: block;
     background-color: #CCE5FF;
     font-size: 30px;
@@ -126,6 +128,7 @@ h2 {
     text-align: center;
 }
 #first_encounter_www {
+    font-family: Bernard MT, serif;
     display: block;
     background-color: #CCE5FF;
     font-size: 30px;
