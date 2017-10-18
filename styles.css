@@ -60,7 +60,7 @@ table {
   position: relative;
   width: 100%;
   top: 0;
-  margin-top: 20px;
+  margin-top: 0;
   margin-bottom: 20px;
 }
 
@@ -76,7 +76,6 @@ table {
 }
 
 .navigation ul li a {
-  border-style: dotted;
   display: block;
   padding: 20px;
   font-size: 20px;
@@ -109,7 +108,7 @@ h1 {
     margin-left: 20px;
     font-size: 60px;
     font-weight: bold;
-    font-family: Bernard MT, sans serif;
+    font-family: Bernard MT, serif;
 } 
 h2 {
     font-size: 30px;
@@ -135,6 +134,7 @@ h2 {
 #dominican_rep {
     text allign: left;
     padding: 0;
+}
 p {
     color: darkred;
     text-align: center;
