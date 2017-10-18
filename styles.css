@@ -78,6 +78,7 @@ table {
 }
 
 .navigation ul li a {
+  boarder-style: inset;
   display: block;
   padding: 20px;
   font-size: 20px;
@@ -91,6 +92,7 @@ table {
 .navigation ul li a:hover {
   background-color: #FFFF99;
   color: #CC6600;
+  boarder-style: inset;
 }
 
 .myheader {
