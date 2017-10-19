@@ -138,6 +138,7 @@ h2 {
 }
 #dominican_rep {
     position: relative;
+    top: 20%;
     margin: auto;
     padding: 2px;
 }
