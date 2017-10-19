@@ -105,9 +105,9 @@ body {
 h1 {
     color: green;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 40px;
     margin-left: 20px;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: bold;
     font-family: Bernard MT, serif;
 } 
@@ -143,19 +143,13 @@ h4 {
     text-align: center;
 }
 #cancun {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin-top: 40px;
+    position: relative;
     float: left;
 }
 #dominican_rep {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin-top: 40px;
+    position: relative;
     float: right;
 }
 p {
