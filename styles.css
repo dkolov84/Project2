@@ -114,10 +114,9 @@ h1 {
 h2 {
     font-size: 30px;
     color: #CC0000;
-    font-weight: bold;
 }
 #intend {
-    color: darkred;
+    color: black;
     text-align: center;
     padding: 5px;
 }
@@ -125,7 +124,7 @@ h2 {
     font-family: Bernard MT, serif;
     display: block;
     background-color: #CCE5FF;
-    font-size: 30px;
+    font-size: 20px;
     color: #CC0000;
     text-align: center;
 }
@@ -133,7 +132,7 @@ h2 {
     font-family: Bernard MT, serif;
     display: block;
     background-color: #CCE5FF;
-    font-size: 30px;
+    font-size: 20px;
     color: #CC0000;
     text-align: center;
 }
