@@ -92,11 +92,12 @@ table {
 }
 
 .myheader {
+  margin-top: 80px;
   font-family: 'Bernard MT', serif;
   font-weight: 800;
   font-size: 50px;
   text-align: center;
-  padding: 50px;
+  padding: 10px;
 }
 body {
     background-color: lightblue;
