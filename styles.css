@@ -127,7 +127,6 @@ h2 {
     background-color: #CCE5FF;
     font-size: 30px;
     color: #CC0000;
-    font-weight: bold;
     text-align: center;
 }
 #first_encounter_www {
@@ -136,7 +135,6 @@ h2 {
     background-color: #CCE5FF;
     font-size: 30px;
     color: #CC0000;
-    font-weight: bold;
     text-align: center;
 }
 #dominican_rep {
@@ -154,7 +152,7 @@ img {
     width: 40%;
 }
 div.gallery {
-    margin: 4px;
+    margin: 10px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
