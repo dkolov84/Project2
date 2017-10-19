@@ -137,7 +137,7 @@ h2 {
     text-align: center;
 }
 #dominican_rep {
-    margin: auto;
+    margin: 20px;
     padding: 20px;
 }
 p {
@@ -147,8 +147,6 @@ p {
 }
 img {
     display: block;
-    width: 300px;
-    height: 200px;
     margin: auto;
     width: 20%;
 }
