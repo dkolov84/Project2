@@ -137,7 +137,10 @@ h2 {
     text-align: center;
 }
 #cancun {
-	padding: 10px;
+	position: absolute;
+	right: 0;
+	padding: 20px;
+	margin: auto;
 }
 #dominican_rep {
     position: relative;
