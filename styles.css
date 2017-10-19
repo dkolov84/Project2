@@ -92,7 +92,7 @@ table {
 }
 
 .myheader {
-  margin-top: 80px;
+  position: relative;
   font-family: 'Bernard MT', serif;
   font-weight: 800;
   font-size: 50px;
