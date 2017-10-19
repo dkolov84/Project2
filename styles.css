@@ -69,6 +69,7 @@ table {
   margin: 0;
   padding: 0;
   overflow: hidden; 
+  position: fixed;
 }
 
 .navigation ul li {
@@ -116,11 +117,9 @@ h2 {
     font-weight: bold;
 }
 #intend {
-    boarder-width: 5px;
-    boarder-style: inset;
     color: darkred;
     text-align: center;
-    padding: 30px;
+    padding: 5px;
 }
 #background_info {
     font-family: Bernard MT, serif;
