@@ -124,6 +124,7 @@ h4 {
 }
 footer {
 	position: fixed;
+	bottom: 0;
 	padding: 5px;
 	color: #CC0000;
 	float: right;
