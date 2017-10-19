@@ -175,6 +175,10 @@ footer:hover {
     font-family: Bernard MT, serif;
     font-size: 20px;
 }
+#w3c {
+    float: left;
+    padding: 2px;
+}
 p {
     color: #120B80;
     text-align: center;
