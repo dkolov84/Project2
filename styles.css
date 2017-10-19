@@ -123,6 +123,7 @@ h4 {
     border-width: 4px;
 }
 footer {
+	position: fixed;
 	padding: 5px;
 	color: #CC0000;
 	float: right;
