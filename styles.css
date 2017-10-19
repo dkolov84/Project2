@@ -137,6 +137,7 @@ h2 {
     text-align: center;
 }
 #dominican_rep {
+    position: relative;
     margin: auto;
     padding: 2px;
 }
