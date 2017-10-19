@@ -128,7 +128,7 @@ h4 {
 }
 #contact info {
     text-align: center;
-    padding: 10px;
+    padding: 0;
 }
 #background_info {
     font-family: Bernard MT, serif;
@@ -158,10 +158,10 @@ h4 {
 }
 #skills {
     text-align: center;
-    color: #3A9443;
+    color: #120B80;
     padding: 20px;
     font-family: Bernard MT, serif;
-    font-size: 10px;
+    font-size: 20px;
 }
 p {
     color: darkred;
