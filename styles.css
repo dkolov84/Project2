@@ -164,8 +164,8 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width: 100%;
-    height: auto;
+    width: 300px;
+    height: 200px;
 }
 
 div.desc {
