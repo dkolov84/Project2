@@ -122,6 +122,13 @@ h4 {
     border-style: inset;
     border-width: 4px;
 }
+footer {
+	padding: 5px;
+	color: #CC0000;
+	float: right;
+	background-color: #0F5EB7;
+}
+	
 #intend {
     color: black;
     text-align: center;
