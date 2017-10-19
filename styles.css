@@ -76,7 +76,6 @@ table {
 }
 
 .navigation ul li a {
-  boarder-style: round;
   display: block;
   padding: 20px;
   font-size: 20px;
@@ -115,6 +114,13 @@ h2 {
     font-size: 30px;
     color: #CC0000;
     font-weight: bold;
+}
+#intend {
+    boarder-width: 5px;
+    boarder-style: inset;
+    color: darkred;
+    text-align: center;
+    padding: 30px;
 }
 #background_info {
     font-family: Bernard MT, serif;
