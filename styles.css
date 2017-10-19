@@ -128,6 +128,10 @@ footer {
 	float: right;
 	background-color: #0F5EB7;
 }
+footer:hover {
+  background-color: #FFFF99;
+  color: #CC6600;
+}
 	
 #intend {
     color: black;
