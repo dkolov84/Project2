@@ -147,6 +147,8 @@ p {
 }
 img {
     display: block;
+    width: 300;
+    height: 200;
     margin: auto;
     width: 20%;
 }
