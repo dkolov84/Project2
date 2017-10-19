@@ -112,6 +112,7 @@ h1 {
     font-family: Bernard MT, serif;
 } 
 h2 {
+    text-align: center;
     font-size: 30px;
     color: #CC0000;
     border: 2px solid #0AC4E1;
