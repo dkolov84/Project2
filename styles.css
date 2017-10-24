@@ -57,7 +57,7 @@ table {
 
 .navigation {
   background-color: #0F5EB7;
-  position: sticky;
+  position: relative;
   width: 100%;
   top: 0;
   margin-top: 0;
@@ -180,7 +180,7 @@ footer:hover {
 #w3c {
     position: relative;
     padding: 2px;
-    margins: 5px;
+    margin: 5px;
 }
 p {
     color: #120B80;
