@@ -118,6 +118,7 @@ h4 {
 }
 footer {
 	position: fixed;
+	top: 90%;
 	bottom: 0;
 	padding: 5px;
 	color: #CC0000;
