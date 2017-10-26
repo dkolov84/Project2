@@ -175,7 +175,8 @@ div.intend {
     font-size: 20px;
 }
 div.w3c {
-    position: relative;
+    position: fixed;
+    float: right;
     padding: 2px;
     margin: 5px;
 }
