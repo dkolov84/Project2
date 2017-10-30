@@ -178,14 +178,12 @@ div.intend {
 div.w3c {
     position: relative;
     float: left;
-    padding: 15px;
-    margin: 2px;
+    padding: 5px;
+    margin-left: 20px;
 }
 .w3cpic {
-	position: absolute;
-	float: left;
 	border: 0;
-	margin-bottom: 25px;
+	margin-bottom: 10px;
 	width: 60px;
 	height: 23px;
 }
