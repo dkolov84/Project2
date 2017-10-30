@@ -182,6 +182,7 @@ div.w3c {
     margin-left: 20px;
 }
 .w3cpic {
+	position: fixed;
 	border: 0;
 	margin-bottom: 10px;
 	width: 60px;
