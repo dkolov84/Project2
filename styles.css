@@ -117,7 +117,7 @@ h4 {
     border-width: 4px;
 }
 footer {
-	position: absolute;
+	position: fixed;
 	right: 30px;
 	left: 30px;
 	bottom: 0;
@@ -178,7 +178,7 @@ div.intend {
 div.w3c {
     position: relative;
     float: left;
-    padding: 5px;
+    padding: 15px;
     margin: 2px;
 }
 .w3cpic {
