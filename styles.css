@@ -117,11 +117,12 @@ h4 {
     border-width: 4px;
 }
 footer {
-	position: center;
-	display: block;
-	width: 80%;
-	height: 30px;
+	position: absolute;
+	right: 30px;
+	left: 30px;
 	bottom: 0;
+	display: block;
+	height: 30px;
 	padding: 5px;
 	text-align: center;
 	color: #CC0000;
