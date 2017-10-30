@@ -176,9 +176,9 @@ div.intend {
 }
 div.w3c {
     position: fixed;
-    float: right;
-    padding: 2px;
-    margin: 5px;
+    float: left;
+    padding: 40px;
+    margin: 2px;
 }
 .w3cpic {
 	position: relative;
