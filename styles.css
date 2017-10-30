@@ -181,6 +181,8 @@ div.w3c {
     margin: 5px;
 }
 .w3cpic {
+	position: relative;
+	float: left;
 	border: 0;
 	width: 60px;
 	height: 23px;
