@@ -84,7 +84,7 @@ table {
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
-  font-family: Agency FB, serif;
+  font-family: "Agency FB", serif;
 }
 
 .navigation ul li a:hover {
@@ -103,7 +103,7 @@ h1 {
     margin-left: 20px;
     font-size: 40px;
     font-weight: bold;
-    font-family: Bernard MT, serif;
+    font-family: "Bernard MT", serif;
 } 
 h2 {
     text-align: center;
@@ -119,7 +119,7 @@ h4 {
 footer {
 	position: fixed;
 	display: block;
-	widht: 40%;
+	width: 40%;
 	height: 10%;
 	bottom: 0;
 	padding: 5px;
@@ -142,7 +142,7 @@ div.intend {
     padding: 0;
 }
 #background_info {
-    font-family: Bernard MT, serif;
+    font-family: "Bernard MT", serif;
     display: block;
     background-color: #CCDEBE;
     font-size: 20px;
@@ -150,7 +150,7 @@ div.intend {
     text-align: center;
 }
 #first_encounter_www {
-    font-family: Bernard MT, serif;
+    font-family: "Bernard MT", serif;
     display: block;
     background-color: #CCDEBE;
     font-size: 20px;
@@ -171,7 +171,7 @@ div.intend {
     text-align: center;
     color: #120B80;
     padding: 20px;
-    font-family: Bernard MT, serif;
+    font-family: "Bernard MT", serif;
     font-size: 20px;
 }
 div.w3c {
@@ -179,6 +179,11 @@ div.w3c {
     float: right;
     padding: 2px;
     margin: 5px;
+}
+div.w3c img {
+	border: 0;
+	width: 60px;
+	height: 23px;
 }
 p {
     color: #120B80;
