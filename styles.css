@@ -67,6 +67,9 @@ table {
 }
 
 .navigation ul {
+  position: relative;
+  display: inline-block;
+  text-align: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
