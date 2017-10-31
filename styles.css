@@ -104,7 +104,6 @@ h1 {
     color: green;
     text-align: center;
     margin-top: 80px;
-    margin-left: 20px;
     font-size: 40px;
     font-weight: bold;
     font-family: "Bernard MT", serif;
@@ -142,6 +141,12 @@ div.intend {
     color: black;
     text-align: center;
     padding: 5px;
+}
+div.mailto {
+    position: relative;
+    text-align: center;
+    padding: 5px;
+    text-color: green;
 }
 #contact info {
     text-align: center;
