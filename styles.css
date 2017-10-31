@@ -58,6 +58,7 @@ table {
 .navigation {
   background-color: #0F5EB7;
   position: fixed;
+  text-align: center;
   z-index: 10;
   width: 100%;
   top: 0;
