@@ -110,16 +110,22 @@ h1 {
     font-family: "Bernard MT", serif;
 } 
 h2 {
+    padding: 6px;
     text-align: center;
     font-size: 30px;
     color: #CC0000;
     border: 2px solid #0AC4E1;
     border-radius: 5px;
 }
+h3 {
+    font-weight: bold;
+    margin-left: 40px;
+    font-size: 
 h4 {
     border-style: inset;
     border-width: 4px;
     padding: 10px;
+    font-size: 15px;
 }
 footer {
 	position: fixed;
