@@ -183,7 +183,7 @@ div.w3c {
     margin-bottom: 15px;
 }
 .w3cpic {
-	position: fixed;
+	position: relative;
 	border: 0;
 	margin-left: 200px;
 	margin-bottom: 130px;
