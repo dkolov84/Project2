@@ -119,6 +119,7 @@ h2 {
 h4 {
     border-style: inset;
     border-width: 4px;
+    padding: 10px;
 }
 footer {
 	position: fixed;
