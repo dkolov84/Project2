@@ -138,13 +138,13 @@ div.intend {
     font-size: 20px;
 }
 div.w3c {
-    position: relative;
+    position: fixed;
     float: left;
     margin-left: 20px;
     margin-bottom: 15px;
 }
 .w3cpic {
-	position: absolute;
+	position: fixed;
 	border: 0;
 	margin-top: 0;
 	margin-left: 10px;
