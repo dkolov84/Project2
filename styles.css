@@ -76,12 +76,12 @@ h4 {
 }
 footer {
 	position: fixed;
-	margin-top: 60px;
+	margin-top: 40px;
 	right: 30px;
 	left: 30px;
 	bottom: 0;
 	display: block;
-	height: 35px;
+	height: 41px;
 	padding: 5px;
 	text-align: center;
 	color: #CC0000;
