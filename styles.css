@@ -140,7 +140,6 @@ div.intend {
 div.w3c {
     position: relative;
     float: left;
-    padding: 5px;
     margin-left: 20px;
     margin-bottom: 15px;
 }
@@ -149,6 +148,8 @@ div.w3c {
 	border: 0;
 	margin-top: 0;
 	margin-left: 10px;
+	width: 88px;
+	height: 31px;
 }
 p {
     color: #120B80;
