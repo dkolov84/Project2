@@ -128,7 +128,7 @@ div.intend {
     float: right;
 }
 #skills {
-    position: absolute;
+    position: relative;
     text-align: center;
     margin-top: 30px;
     margin-bottom: 90x;
